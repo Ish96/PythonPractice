@@ -11,3 +11,4 @@ else:
     for i in range(4):
         mul = mul * ls[i]
     print(mul)
+print("Are you hungry?")
